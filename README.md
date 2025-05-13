@@ -1,1 +1,1 @@
-# RentSystem
+# RentalSystem
