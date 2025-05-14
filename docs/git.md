@@ -29,3 +29,29 @@ cd RentalSystem
 git add .
 ```
 - Commit 
+```sh
+git commit -m "content"
+```
+- Push 
+```sh
+git push origin <name_branch>
+```
+
+### Lead
+1. Merge code 
+- back main branch
+```sh
+git checkout main
+```
+- Update main branch from remote
+```sh
+git pull origin main
+```
+- Merge code
+```sh
+git merge mem/<name_branch>
+```
+- Push code to origin/main
+```sh
+git push origin main
+```
