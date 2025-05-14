@@ -20,7 +20,7 @@ cd RentalSystem
 
 - 3.2 Create and move my branch 
   ```sh
-  git branch -b <name_branch>
+  git checkout -b <name_branch>
   ```
 
 4. Push code from your branch
